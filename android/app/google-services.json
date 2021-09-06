@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "264886362069",
+    "project_id": "homies-cce62",
+    "storage_bucket": "homies-cce62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264886362069:android:ab4cb312ff0ec4294da75c",
+        "android_client_info": {
+          "package_name": "com.fabiansimon.homies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264886362069-v03bufo0hjnat8g8b9m1n80uktbhfpf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5N0n-21lbdd8gH7fpkb8dFwlkq98-HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264886362069-v03bufo0hjnat8g8b9m1n80uktbhfpf9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264886362069-2setm4132sdtd6rsittrlo55pjlo7dbh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fabiansimon.homies"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
